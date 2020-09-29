@@ -1,0 +1,38 @@
+body {
+  background-color: silver;
+}
+
+br {
+  height: 20px;
+}
+
+.container {
+  padding: 20px 0 0 0;
+}
+
+.promt {
+  width: 100%;
+  background-color: rgb(230, 230, 230);
+  margin: 0 0 2% 0;
+}
+
+.sub-promt {
+  margin: 0 0 20px 0;
+}
+
+.sub-promt.last {
+  margin: 0 0;
+}
+
+.sub-sub-promt {
+  width: 95%;
+  margin: 0 0 10px 0;
+}
+
+.title {
+  padding: 15px 0 0 10px;
+}
+
+.response {
+  padding: 0 13px 13px 13px;
+}
