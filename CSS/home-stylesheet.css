@@ -31,6 +31,7 @@
 
 #sidebar ul.components {
   padding: 20px 0;
+  border-top: 1px solid #47748b;
   border-bottom: 1px solid #47748b;
 }
 
