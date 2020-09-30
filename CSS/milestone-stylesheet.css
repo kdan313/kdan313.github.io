@@ -10,6 +10,18 @@ br {
   padding: 20px 0 0 0;
 }
 
+.top-line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home {
+  font-size: 2em;
+  color: #fff;
+  text-decoration: underline;
+  padding-right: 20px;
+}
+
 .promt {
   width: 100%;
   background-color: rgb(230, 230, 230);
